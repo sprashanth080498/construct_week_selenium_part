@@ -12,7 +12,7 @@ Project Description:
 
 Architecture of selenium:
 
-
+![image](https://github.com/user-attachments/assets/68f78294-f857-496a-abb5-b6266c3d9fdf)
 
 
 Application Name:
