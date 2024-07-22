@@ -86,8 +86,10 @@ Dependencies/libraries:
 
 Tools and stacks used:
   
-    1.Spring Tool Suite IDE( an integrated development)
-    2.GitHub 
+    1.Spring Tool Suite IDE( an integrated development)![image](https://github.com/user-attachments/assets/e43c2a13-8ffa-4c13-9878-1f75da5d1793)
+
+    2.GitHub ![image](https://github.com/user-attachments/assets/f61cb28c-8ab5-4ada-a3fe-5ec8f8ab4bc6)
+
     3.Google drive
  Git commands:
 
