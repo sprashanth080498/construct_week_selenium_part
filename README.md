@@ -17,6 +17,10 @@ Architecture of selenium:
 
 
 Application Name:
+
+
+![image](https://github.com/user-attachments/assets/dc6b8ac4-7ef3-4aca-938e-528a5304fdd8)
+
   
   Tutorial_ninja application
   
@@ -30,8 +34,8 @@ Project questionaire video link:
     
 Features:
   
-  Login functionality
-  Add to cart functionality 
+  1) Login functionality
+  2) Add to cart functionality 
   
 Installation and setup:
   
@@ -39,6 +43,12 @@ Installation and setup:
   2.Create a new maven project
   3.Create a new package in the src/test/resources and add a feature file with .feature extension in it.
   4.Create two new packages in the src/test/java and add steps file in one package and a runner file in another package.
+
+Structure of the Project:
+
+
+![image](https://github.com/user-attachments/assets/13dcc5ca-60c0-482f-a0e6-0d4b35f5a192)
+
   
 Advantages of Maven project:
     
@@ -85,14 +95,25 @@ Dependencies/libraries:
 </project>
 
 Tools and stacks used:
+
+
+	![image](https://github.com/user-attachments/assets/c662ac87-3190-4786-a3c6-ba6926a2f854)
+
   
-    1.Spring Tool Suite IDE( an integrated development)![image](https://github.com/user-attachments/assets/e43c2a13-8ffa-4c13-9878-1f75da5d1793)
+    1.Spring Tool Suite IDE( an integrated development)
+
+ ![image](https://github.com/user-attachments/assets/706e5e77-c347-4b0e-8da8-5aea0521aec4)
+
+
 
     2.GitHub ![image](https://github.com/user-attachments/assets/f61cb28c-8ab5-4ada-a3fe-5ec8f8ab4bc6)
 
+    ![image](https://github.com/user-attachments/assets/d6b2d893-dc66-44eb-a399-4b15a207d3e7)
+
+
     3.Google drive
  Git commands:
-
+ 
   Git init -> initializes the git 
   git remote add origin "url" -> command to create a remote origin for the local in the cloud and .git file is seen in the folder which represents the folder is linked to remote 
   git add . -> command to add all the files in the local to remote
